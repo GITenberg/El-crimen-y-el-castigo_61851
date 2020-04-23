@@ -1,5 +1,5 @@
 _repo: El-crimen-y-el-castigo_61851
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Prestuplenie i nakazanie. Spanish
 contributor:
   translator:
@@ -13,6 +13,9 @@ contributor:
     birthdate: 1877
     gutenberg_agent_id: '51646'
     url: http://www.gutenberg.org/2009/agents/51646
+covers:
+- cover_type: archival
+  image_path: 61851-h/images/cover.jpg
 creator:
   author:
     agent_name: Dostoyevsky, Fyodor
@@ -31,6 +34,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/314
     wikipedia: https://en.wikipedia.org/wiki/Fyodor_Dostoevsky
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61851#El-crimen-y-el-castigo
 gutenberg_issued: '2020-04-16'
 gutenberg_type: Text
 identifiers:
