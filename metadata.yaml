@@ -1,0 +1,51 @@
+_repo: El-crimen-y-el-castigo_61851
+_version: 0.0.1
+alternative_title: Prestuplenie i nakazanie. Spanish
+contributor:
+  translator:
+    agent_name: Pedraza y Páez, Pedro
+    aliases:
+    - Azar y Azpe, P. de
+    - Páez, Pedro Pedraza y
+    - Azpe, P. de Azar y
+    - Paez, Pedro Pedraza y
+    - Pedraza Páez, Pedro
+    birthdate: 1877
+    gutenberg_agent_id: '51646'
+    url: http://www.gutenberg.org/2009/agents/51646
+creator:
+  author:
+    agent_name: Dostoyevsky, Fyodor
+    aliases:
+    - Dostoievski, Fedor Mikhailovitch
+    - Достоевский, Фёдор Михайлович
+    - Dostojewski, Fjodor Michailowitsch
+    - Dostoievski, Fédor Mikhailovitch
+    - Dostoyevsky, F. M.
+    - Dostoievski, Fiodor
+    - Dostoyevsky, Fyodor Mikhailovich
+    - Dostoevsky, Fyodor
+    birthdate: 1821
+    deathdate: 1881
+    gutenberg_agent_id: '314'
+    url: http://www.gutenberg.org/2009/agents/314
+    wikipedia: https://en.wikipedia.org/wiki/Fyodor_Dostoevsky
+description: ''
+gutenberg_issued: '2020-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61851'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Murder -- Fiction'
+- !lcsh 'Crime -- Psychological aspects -- Fiction'
+- !lcc 'PG'
+- !lcsh 'Saint Petersburg (Russia) -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Psychological fiction'
+- GITenberg
+title: El crimen y el castigo
+url: http://www.gutenberg.org/ebooks/61851
